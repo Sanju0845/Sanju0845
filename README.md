@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color:#00bfff;">Hi 👋, I'm <span style="color:#ff9800;">Sanjay Anand</span></h1>
 <p align="center">
-  <b style="font-size:1.2em;">Full-Stack Developer | AI & Prompt Engineering Enthusiast</b>
+  <b style="font-size:1.2em;">Full-Stack Developer | AI & Prompt Engineering Enthusiast | Java developer</b>
 </p>
 <p align="center">
   <a href="https://github.com/Sanju0845"><img src="https://img.shields.io/github/followers/Sanju0845?style=social" alt="GitHub followers"></a>
